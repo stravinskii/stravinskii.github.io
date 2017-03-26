@@ -11,4 +11,4 @@ I'm just humoring myself that hopefully anyone finds useful what I write here
 
 ### Contact me
 
-Message me on [twitter](twitter.com/stravinskii)
+Message me on [twitter](https://www.twitter.com/stravinskii)
