@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi there, software developer here... Currently working at Oracle, and used to work on applications and web development before.
 
-### More Information
+I'm just humoring myself that hopefully anyone finds useful what I write here
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Message me on [twitter](twitter.com/stravinskii)
