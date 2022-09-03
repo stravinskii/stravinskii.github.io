@@ -2,10 +2,15 @@
 layout: default
 ---
 <header>
-  <h1>{{ site.title }}</h1>
-  {%-if site.theme_config.show_description-%}
-    <p>{{ site.description }}</p>
-  {%-endif-%}
+  <h1><code>{{ site.title }}</code></h1>
+  <p>
+    <i id="home-quote">
+      You be good. I love you.
+    </i>
+    <sub id="home-quote-author">
+      "The Great Silence" by Ted Chiang
+    </sub>
+  </p>
 </header>
 
 {%-include menu_item.html collection=site.data.menu.entries-%}

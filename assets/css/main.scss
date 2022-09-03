@@ -2,3 +2,30 @@
 ---
 
 @import "no-style-please";
+
+.apple {
+	font-family: "Helvetica";
+}
+.google {
+	font-family: "Open_Sans";
+	font-size: 20px;
+}
+.gBlue {
+	color: #4285F4;
+}
+.gRed {
+	color: #DB4437;
+}
+.gYellow {
+	color: #F4B400;
+}
+.gGreen {
+	color: #0F9D58;
+}
+
+#home-quote-author:before {
+    content: "~";
+}
+#home-quote-author {
+	font-size: small;
+}
